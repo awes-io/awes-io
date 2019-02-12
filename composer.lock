@@ -4,8 +4,450 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "66ca7343889332c2b8ecca11c251430c",
+    "content-hash": "6d4a905fb7781351f7c24b34750c24d7",
     "packages": [
+        {
+            "name": "awes-io/auth",
+            "version": "v0.1.2",
+            "dist": {
+                "type": "zip",
+                "url": "https://www.awc.wtf/api/download/0fbc15f0be780c84c76ff5c954fec706/awes-io/auth/v0.1.2.zip"
+            },
+            "require": {
+                "guzzlehttp/guzzle": "^6.3",
+                "illuminate/support": "~5",
+                "laravel/socialite": "^4.0"
+            },
+            "require-dev": {
+                "mockery/mockery": "^1.1",
+                "orchestra/testbench": "~3.0",
+                "phpunit/phpunit": "~7.0",
+                "sempro/phpunit-pretty-print": "^1.0"
+            },
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "providers": [
+                        "AwesIO\\Auth\\AuthServiceProvider"
+                    ],
+                    "aliases": {
+                        "AwesAuth": "AwesIO\\Auth\\Facades\\Auth"
+                    }
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "AwesIO\\Auth\\": "src/"
+                }
+            },
+            "autoload-dev": {
+                "psr-4": {
+                    "AwesIO\\Auth\\Tests\\": "tests/"
+                }
+            },
+            "scripts": {
+                "test": [
+                    "vendor/bin/phpunit --colors=always --configuration phpunit.xml.dist --debug"
+                ]
+            },
+            "license": [
+                "GPL-3.0-only"
+            ],
+            "authors": [
+                {
+                    "name": "Awescode GmbH",
+                    "email": "info@awescode.de",
+                    "homepage": "https://www.awescode.de",
+                    "role": "Owner"
+                },
+                {
+                    "name": "Galymzhan Begimov",
+                    "email": "begimov@gmail.com",
+                    "homepage": "https://github.com/begimov"
+                }
+            ],
+            "description": ":description",
+            "homepage": "https://github.com/awes-io/auth",
+            "keywords": [
+                "Auth",
+                "Laravel"
+            ],
+            "support": {
+                "email": "support@awescode.de"
+            },
+            "transport-options": {
+                "http": {
+                    "header": [
+                        "API-TOKEN: d56b9d2fcfc8eb5651d5e86050df46b21f156366f764a3e1efcc3f8aa7604f9c"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "awes-io/base-js",
+            "version": "v1.0.7",
+            "dist": {
+                "type": "zip",
+                "url": "https://www.awc.wtf/api/download/0fbc15f0be780c84c76ff5c954fec706/awes-io/base-js/v1.0.7.zip"
+            },
+            "require": {
+                "illuminate/support": "~5"
+            },
+            "require-dev": {
+                "mockery/mockery": "^1.1",
+                "orchestra/testbench": "~3.0",
+                "phpunit/phpunit": "~7.0",
+                "sempro/phpunit-pretty-print": "^1.0"
+            },
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "providers": [
+                        "AwesIO\\BaseJS\\BaseJSServiceProvider"
+                    ]
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "AwesIO\\BaseJS\\": "src/"
+                }
+            },
+            "autoload-dev": {
+                "psr-4": {
+                    "AwesIO\\BaseJS\\Tests\\": "tests/"
+                }
+            },
+            "scripts": {
+                "test": [
+                    "vendor/bin/phpunit --colors=always"
+                ]
+            },
+            "license": [
+                "GPL-3.0-only"
+            ],
+            "authors": [
+                {
+                    "name": "Awescode GmbH",
+                    "email": "info@awescode.de",
+                    "homepage": "https://www.awescode.de",
+                    "role": "Owner"
+                },
+                {
+                    "name": "theAlex",
+                    "email": "info@thealex.ru",
+                    "homepage": "https://thealex.ru"
+                }
+            ],
+            "description": ":description",
+            "homepage": "https://github.com/awesio/basejs",
+            "keywords": [
+                "BaseJS",
+                "Laravel"
+            ],
+            "support": {
+                "email": "support@awescode.de"
+            },
+            "transport-options": {
+                "http": {
+                    "header": [
+                        "API-TOKEN: d56b9d2fcfc8eb5651d5e86050df46b21f156366f764a3e1efcc3f8aa7604f9c"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "awes-io/form-builder",
+            "version": "v1.0.9",
+            "dist": {
+                "type": "zip",
+                "url": "https://www.awc.wtf/api/download/0fbc15f0be780c84c76ff5c954fec706/awes-io/form-builder/v1.0.9.zip"
+            },
+            "require": {
+                "illuminate/support": "~5"
+            },
+            "require-dev": {
+                "mockery/mockery": "^1.1",
+                "orchestra/testbench": "~3.0",
+                "phpunit/phpunit": "~7.0",
+                "sempro/phpunit-pretty-print": "^1.0"
+            },
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "providers": [
+                        "AwesIO\\FormBuilder\\FormBuilderServiceProvider"
+                    ]
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "AwesIO\\FormBuilder\\": "src/"
+                }
+            },
+            "autoload-dev": {
+                "psr-4": {
+                    "AwesIO\\FormBuilder\\Tests\\": "tests/"
+                }
+            },
+            "scripts": {
+                "test": [
+                    "vendor/bin/phpunit --colors=always"
+                ]
+            },
+            "license": [
+                "GPL-3.0-only"
+            ],
+            "authors": [
+                {
+                    "name": "Awescode GmbH",
+                    "email": "info@awescode.de",
+                    "homepage": "https://www.awescode.de",
+                    "role": "Owner"
+                },
+                {
+                    "name": "theAlex",
+                    "email": "info@thealex.ru",
+                    "homepage": "https://thealex.ru"
+                }
+            ],
+            "description": ":description",
+            "homepage": "https://github.com/awesio/formbuilder",
+            "keywords": [
+                "FormBuilder",
+                "Laravel"
+            ],
+            "support": {
+                "email": "support@awescode.de"
+            },
+            "transport-options": {
+                "http": {
+                    "header": [
+                        "API-TOKEN: d56b9d2fcfc8eb5651d5e86050df46b21f156366f764a3e1efcc3f8aa7604f9c"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "awes-io/indigo-layout",
+            "version": "v0.1.20",
+            "dist": {
+                "type": "zip",
+                "url": "https://www.awc.wtf/api/download/0fbc15f0be780c84c76ff5c954fec706/awes-io/indigo-layout/v0.1.20.zip"
+            },
+            "require": {
+                "awes-io/base-js": "^1.0",
+                "awes-io/theme-switcher": "^1.0",
+                "illuminate/support": "~5"
+            },
+            "require-dev": {
+                "mockery/mockery": "^1.1",
+                "orchestra/testbench": "~3.0",
+                "phpunit/phpunit": "~7.0",
+                "sempro/phpunit-pretty-print": "^1.0"
+            },
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "providers": [
+                        "AwesIO\\IndigoLayout\\IndigoLayoutServiceProvider"
+                    ]
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "AwesIO\\IndigoLayout\\": "src/"
+                }
+            },
+            "autoload-dev": {
+                "psr-4": {
+                    "AwesIO\\IndigoLayout\\Tests\\": "tests/"
+                }
+            },
+            "scripts": {
+                "test": [
+                    "vendor/bin/phpunit --colors=always"
+                ]
+            },
+            "license": [
+                "GPL-3.0-only"
+            ],
+            "authors": [
+                {
+                    "name": "Awescode GmbH",
+                    "email": "info@awescode.de",
+                    "homepage": "https://www.awescode.de",
+                    "role": "Owner"
+                },
+                {
+                    "name": "theAlex",
+                    "email": "info@thealex.ru",
+                    "homepage": "https://thealex.ru"
+                }
+            ],
+            "description": ":description",
+            "homepage": "https://github.com/awesio/indigolayout",
+            "keywords": [
+                "IndigoLayout",
+                "Laravel"
+            ],
+            "support": {
+                "email": "support@awescode.de"
+            },
+            "transport-options": {
+                "http": {
+                    "header": [
+                        "API-TOKEN: d56b9d2fcfc8eb5651d5e86050df46b21f156366f764a3e1efcc3f8aa7604f9c"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "awes-io/table-builder",
+            "version": "v1.0.4",
+            "dist": {
+                "type": "zip",
+                "url": "https://www.awc.wtf/api/download/0fbc15f0be780c84c76ff5c954fec706/awes-io/table-builder/v1.0.4.zip"
+            },
+            "require": {
+                "illuminate/support": "~5"
+            },
+            "require-dev": {
+                "mockery/mockery": "^1.1",
+                "orchestra/testbench": "~3.0",
+                "phpunit/phpunit": "~7.0",
+                "sempro/phpunit-pretty-print": "^1.0"
+            },
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "providers": [
+                        "AwesIO\\TableBuilder\\TableBuilderServiceProvider"
+                    ]
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "AwesIO\\TableBuilder\\": "src/"
+                }
+            },
+            "autoload-dev": {
+                "psr-4": {
+                    "AwesIO\\TableBuilder\\Tests\\": "tests/"
+                }
+            },
+            "scripts": {
+                "test": [
+                    "vendor/bin/phpunit --colors=always"
+                ]
+            },
+            "license": [
+                "GPL-3.0-only"
+            ],
+            "authors": [
+                {
+                    "name": "Awescode GmbH",
+                    "email": "info@awescode.de",
+                    "homepage": "https://www.awescode.de",
+                    "role": "Owner"
+                },
+                {
+                    "name": "theAlex",
+                    "email": "info@thealex.ru",
+                    "homepage": "https://thealex.ru"
+                }
+            ],
+            "description": ":description",
+            "homepage": "https://github.com/awes-io/table-builder",
+            "keywords": [
+                "Laravel",
+                "TableBuilder"
+            ],
+            "support": {
+                "email": "support@awescode.de"
+            },
+            "transport-options": {
+                "http": {
+                    "header": [
+                        "API-TOKEN: d56b9d2fcfc8eb5651d5e86050df46b21f156366f764a3e1efcc3f8aa7604f9c"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "awes-io/theme-switcher",
+            "version": "v1.0.3",
+            "dist": {
+                "type": "zip",
+                "url": "https://www.awc.wtf/api/download/0fbc15f0be780c84c76ff5c954fec706/awes-io/theme-switcher/v1.0.3.zip"
+            },
+            "require": {
+                "illuminate/support": "~5"
+            },
+            "require-dev": {
+                "mockery/mockery": "^1.1",
+                "orchestra/testbench": "~3.0",
+                "phpunit/phpunit": "~7.0",
+                "sempro/phpunit-pretty-print": "^1.0"
+            },
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "providers": [
+                        "AwesIO\\ThemeSwitcher\\ThemeSwitcherServiceProvider"
+                    ],
+                    "aliases": {
+                        "ThemeSwitcher": "AwesIO\\ThemeSwitcher\\Facades\\ThemeSwitcher"
+                    }
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "AwesIO\\ThemeSwitcher\\": "src/"
+                }
+            },
+            "autoload-dev": {
+                "psr-4": {
+                    "AwesIO\\ThemeSwitcher\\Tests\\": "tests/"
+                }
+            },
+            "scripts": {
+                "test": [
+                    "vendor/bin/phpunit --colors=always"
+                ]
+            },
+            "license": [
+                "GPL-3.0-only"
+            ],
+            "authors": [
+                {
+                    "name": "Awescode GmbH",
+                    "email": "info@awescode.de",
+                    "homepage": "https://www.awescode.de",
+                    "role": "Owner"
+                },
+                {
+                    "name": "theAlex",
+                    "email": "info@thealex.ru",
+                    "homepage": "https://thealex.ru"
+                }
+            ],
+            "description": ":description",
+            "homepage": "https://github.com/awes-io/theme-switcher",
+            "keywords": [
+                "Laravel",
+                "ThemeSwitcher"
+            ],
+            "support": {
+                "email": "support@awescode.de"
+            },
+            "transport-options": {
+                "http": {
+                    "header": [
+                        "API-TOKEN: d56b9d2fcfc8eb5651d5e86050df46b21f156366f764a3e1efcc3f8aa7604f9c"
+                    ]
+                }
+            }
+        },
         {
             "name": "dnoegel/php-xdg-base-dir",
             "version": "0.1",
@@ -898,6 +1340,70 @@
             "time": "2018-12-12T13:12:06+00:00"
         },
         {
+            "name": "laravel/socialite",
+            "version": "v4.0.3",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/laravel/socialite.git",
+                "reference": "25eea36010c4e714c58a4792ef52b0a8e8a9c21c"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/laravel/socialite/zipball/25eea36010c4e714c58a4792ef52b0a8e8a9c21c",
+                "reference": "25eea36010c4e714c58a4792ef52b0a8e8a9c21c",
+                "shasum": ""
+            },
+            "require": {
+                "ext-json": "*",
+                "guzzlehttp/guzzle": "~6.0",
+                "illuminate/contracts": "~5.7",
+                "illuminate/http": "~5.7",
+                "illuminate/support": "~5.7",
+                "league/oauth1-client": "~1.0",
+                "php": "^7.1.3"
+            },
+            "require-dev": {
+                "mockery/mockery": "~1.0",
+                "phpunit/phpunit": "~7.0"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "4.0-dev"
+                },
+                "laravel": {
+                    "providers": [
+                        "Laravel\\Socialite\\SocialiteServiceProvider"
+                    ],
+                    "aliases": {
+                        "Socialite": "Laravel\\Socialite\\Facades\\Socialite"
+                    }
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Laravel\\Socialite\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Taylor Otwell",
+                    "email": "taylor@laravel.com"
+                }
+            ],
+            "description": "Laravel wrapper around OAuth 1 & OAuth 2 libraries.",
+            "homepage": "https://laravel.com",
+            "keywords": [
+                "laravel",
+                "oauth"
+            ],
+            "time": "2019-01-21T12:35:13+00:00"
+        },
+        {
             "name": "laravel/tinker",
             "version": "v1.0.8",
             "source": {
@@ -1101,6 +1607,69 @@
                 "storage"
             ],
             "time": "2019-02-01T08:50:36+00:00"
+        },
+        {
+            "name": "league/oauth1-client",
+            "version": "1.7.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/thephpleague/oauth1-client.git",
+                "reference": "fca5f160650cb74d23fc11aa570dd61f86dcf647"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/thephpleague/oauth1-client/zipball/fca5f160650cb74d23fc11aa570dd61f86dcf647",
+                "reference": "fca5f160650cb74d23fc11aa570dd61f86dcf647",
+                "shasum": ""
+            },
+            "require": {
+                "guzzlehttp/guzzle": "^6.0",
+                "php": ">=5.5.0"
+            },
+            "require-dev": {
+                "mockery/mockery": "^0.9",
+                "phpunit/phpunit": "^4.0",
+                "squizlabs/php_codesniffer": "^2.0"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "1.0-dev"
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "League\\OAuth1\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Ben Corlett",
+                    "email": "bencorlett@me.com",
+                    "homepage": "http://www.webcomm.com.au",
+                    "role": "Developer"
+                }
+            ],
+            "description": "OAuth 1.0 Client Library",
+            "keywords": [
+                "Authentication",
+                "SSO",
+                "authorization",
+                "bitbucket",
+                "identity",
+                "idp",
+                "oauth",
+                "oauth1",
+                "single sign on",
+                "trello",
+                "tumblr",
+                "twitter"
+            ],
+            "time": "2016-08-17T00:36:58+00:00"
         },
         {
             "name": "monolog/monolog",
