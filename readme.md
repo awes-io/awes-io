@@ -1,10 +1,12 @@
-**Laravel Awes.IO Edition** was created by [Awescode GmbH](https://www.awescode.de), and is maintained by [Awes.IO](https://www.awes.io) Team, and is a platform that 
+**Laravel AWES.IO Edition** was created by [Awescode GmbH](https://www.awescode.de), and is maintained by [Awes.IO](https://www.awes.io) Team, and is a platform that 
 provides an awesome UI interface and additional packages to build very fast&stable responsible web applications. It is an **unofficial** version of [Laravel](https://laravel.com/).
 
-## What is [AWES.IO](https://www.awes.io)?
+## What is AWES.IO?
 
 **The Platform** consists of 20 dedicated packages on [PHP](http://www.php.net/) and [VueJS](https://vuejs.org/), which have 
 issued on [PackageKit](https://www.pkgkit.com). Packages are ready to install through [composer](https://getcomposer.org/).
+
+Please feel free to follow our [official website](https://www.awes.io) to read more.
 
 ## Installation
 
