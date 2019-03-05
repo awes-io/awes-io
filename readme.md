@@ -3,6 +3,10 @@ provides an awesome UI interface and additional packages to build very fast&stab
 
 ## What is AWES.IO?
 
+<p align="center">
+  <img src="https://static.awes.io/docs/awes-io.png" alt="Awes.IO" />
+</p>
+
 **The Platform** consists of 20 dedicated packages on [PHP](http://www.php.net/) and [VueJS](https://vuejs.org/), which have 
 issued on [PackageKit](https://www.pkgkit.com). Packages are ready to install through [composer](https://getcomposer.org/).
 
@@ -20,7 +24,7 @@ Please feel free to follow our [official website](https://www.awes.io) to read m
 
 ## Documentation
 
-For full documentation, visit [www.awes.io](https://www.awes.io/documentation).
+Full documentation please follow to official website of [Awes.IO](https://www.awes.io/documentation).
 
 ## Most popular packages
 
