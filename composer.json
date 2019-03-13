@@ -1,10 +1,13 @@
 {
-    "name": "laravel/laravel",
+    "name": "awes-io/awes-io",
     "type": "project",
-    "description": "The Laravel Framework.",
+    "description": "Awes.IO build based on Laravel Framework.",
     "keywords": [
+        "awes-io",
         "framework",
-        "laravel"
+        "laravel",
+        "vuejs",
+        "vuejs2"
     ],
     "license": "MIT",
     "require": {
