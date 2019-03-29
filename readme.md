@@ -1,3 +1,5 @@
+[![Analytics](https://ga-beacon.appspot.com/UA-134431636-1/awes-io/awes-io)](https://github.com/awes-io/awes-io)
+
 **Laravel AWES.IO Edition** was created by [Awescode GmbH](https://www.awescode.de), and is maintained by [Awes.IO](https://www.awes.io) Team, and is a platform that 
 provides an awesome UI interface and additional packages to build very fast&stable responsible web applications. It is an **unofficial** version of [Laravel](https://laravel.com/).
 
