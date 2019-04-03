@@ -32,7 +32,7 @@
             "options": {
                 "http": {
                     "header": [
-                        "API-TOKEN: Get an API key on https://www.pkgkit.com"
+                        "API-TOKEN: Get an API key on https://www.pkgkit.com/awes-io/create"
                     ]
                 }
             }
