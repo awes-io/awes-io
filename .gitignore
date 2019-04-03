@@ -7,6 +7,7 @@
 .env
 .phpunit.result.cache
 docker-compose.yml
+composer.lock
 install.sh
 Homestead.json
 Homestead.yaml
