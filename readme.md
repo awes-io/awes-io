@@ -14,15 +14,51 @@ issued on [PackageKit](https://www.pkgkit.com). Packages are ready to install th
 
 Please feel free to follow our [official website](https://www.awes.io) to read more.
 
-## Installation
+## Server Requirements
 
-1) Clone the repo `git clone https://github.com/awes-io/awes-io.git`
-2) Go to [The Package Kit](https://www.pkgkit.com/)
-3) Create a project for getting API key and save to `composer.json`
-3) Copy `.env.example` to `.env`
-4) Run `composer install` to install all required packages
-5) Run `php artisan key:generate` to generate your app key
-6) You are awesome!
+* PHP >= 7.2
+* OpenSSL PHP Extension
+* PDO PHP Extension
+* Mbstring PHP Extension
+* Tokenizer PHP Extension
+* XML PHP Extension
+* Ctype PHP Extension
+* JSON PHP Extension
+* BCMath PHP Extension
+
+## Installing AwesIO
+
+### Via AwesIO Installer
+
+[Awes.IO](https://www.awes.io) utilizes [Composer](https://getcomposer.org/) to manage its dependencies. So, before using [Awes.IO](https://www.awes.io), make sure you have Composer installed on your machine.
+
+First, download the [Awes.IO](https://www.awes.io) installer using Composer:
+```bash
+composer global require awes-io/installer
+```
+
+Make sure to place composer's system-wide vendor bin directory in your `$PATH` so the awes-io executable can be located by your system. This directory exists in different locations based on your operating system; however, some common locations include:
+
+- macOS: `$HOME/.composer/vendor/bin`, command: `export PATH=~/.composer/vendor/bin:$PATH`
+- GNU / Linux Distributions: `$HOME/.config/composer/vendor/bin`
+- Windows: `%USERPROFILE%\AppData\Roaming\Composer\vendor\bin`
+
+Once installed, the `awes-io new` command will create a fresh [Awes.IO](https://www.awes.io) installation in the directory you specify. For instance, `awes-io new crm` will create a directory named `crm` containing a fresh [Awes.IO](https://www.awes.io) installation with all of [Awes.IO](https://www.awes.io)'s dependencies already installed:
+
+```bash
+awes-io new crm
+```
+
+### Manual installation
+
+For the fast start, we recommend using [AwesIO Installer](#via-awesio-installer).
+If for some reason it's not an option, please follow the instruction:
+
+1. Clone the repository: `git clone git@github.com:awes-io/awes-io.git`
+2. Create a project by the link: [https://www.pkgkit.com/awes-io/create](https://www.pkgkit.com/awes-io/create)
+3. Copy project's API key and save it to your `composer.json`
+4. `composer install`
+5. Done! 🍺
 
 ## Documentation
 
