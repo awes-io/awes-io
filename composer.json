@@ -9,9 +9,9 @@
     "license": "MIT",
     "require": {
         "php": "^7.1.3",
-        "awes-io/auth": "^0.1",
-        "awes-io/form-builder": "^1.0",
-        "awes-io/indigo-layout": "^0.1",
+        "awes-io/auth": "^1.1",
+        "awes-io/form-builder": "^1.3",
+        "awes-io/indigo-layout": "^1.2",
         "awes-io/table-builder": "^1.0",
         "fideloper/proxy": "^4.0",
         "laravel/framework": "5.7.*",
@@ -32,7 +32,7 @@
             "options": {
                 "http": {
                     "header": [
-                        "API-TOKEN: Get an API key on pkgkit.com"
+                        "API-TOKEN: Get an API key on https://www.pkgkit.com"
                     ]
                 }
             }

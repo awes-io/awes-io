@@ -1,3 +1,4 @@
+/docker
 /node_modules
 /public/hot
 /public/storage
@@ -5,6 +6,8 @@
 /vendor
 .env
 .phpunit.result.cache
+docker-compose.yml
+install.sh
 Homestead.json
 Homestead.yaml
 npm-debug.log
