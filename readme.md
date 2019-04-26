@@ -4,18 +4,20 @@
     </a>
 </p>
 
+<h1 align="center">Platform for Interactive Business Applications</h1>
+
+<p align="center">10x faster to create than the traditional way • 3x increase application experiences • 60% decrease in development cost</p>
+
+
 <p align="center">
-    <a href="https://www.pkgkit.com/?utm_source=github&amp;utm_medium=shields">
-        <img src="https://www.pkgkit.com/badges/hosted.svg" alt="Hosted by Package Kit" />
+    <a href="https://www.awes.io/?utm_source=github&amp;utm_medium=shields">
+        <img src="https://img.shields.io/github/license/awes-io/awes-io.svg" alt="License" />
     </a>
     <a href="https://www.awes.io/?utm_source=github&amp;utm_medium=shields" target="_blank">
         <img src="https://static.pkgkit.com/badges/vuejs.svg" alt="vue" />
     </a>
     <a href="https://www.awes.io/?utm_source=github&amp;utm_medium=shields" target="_blank">
-            <img src="https://static.pkgkit.com/badges/laravel.svg" alt="laravel" />
-        </a>
-    <a href="https://www.awes.io/?utm_source=github&amp;utm_medium=shields">
-        <img src="https://img.shields.io/github/license/awes-io/awes-io.svg" alt="License" />
+        <img src="https://static.pkgkit.com/badges/laravel.svg" alt="laravel" />
     </a>
     <a href="https://www.awes.io/?utm_source=github&amp;utm_medium=shields">
         <img src="https://img.shields.io/github/last-commit/awes-io/awes-io.svg" alt="Last commit" />
@@ -23,74 +25,104 @@
     <a href="https://github.com/awes-io/awes-io">
         <img src="https://ga-beacon.appspot.com/UA-134431636-1/awes-io/awes-io" alt="Analytics" />
     </a>
-</p>
-
-<h1 align="center">Awes.io</h1>
-
-<p align="center">Open Source platform to build interactive web applications.</p>
-
-
-<p align="center">
-    <a href="https://www.patreon.com/awesdotio" target="_blank">
-        <img src="https://c5.patreon.com/external/logo/become_a_patron_button.png" alt="Become a Patreon">
+    <a href="https://www.pkgkit.com/?utm_source=github&amp;utm_medium=shields">
+        <img src="https://www.pkgkit.com/badges/hosted.svg" alt="Hosted by Package Kit" />
+    </a>
+    <a href="https://www.patreon.com/awesdotio">
+        <img src="https://static.pkgkit.com/badges/patreon.svg" alt="Patreon" />
     </a>
 </p>
+
+## Features
+
+* Free and Open-Source
+* 34 ready-to-use dedicated open-source packages
+* Awesome interface with a dark mode as an out-of-the-box feature
+* Easy to customize, based on Laravel & Vue.js
+* Well-designed for CRM, ERP, SaaS, Admin Dashboards, and Startups
+* Simple support of the applications
+
+<p align="center">
+    <a href="https://demo.awes.io/?utm_source=github&utm_medium=awes-io-head-link" title="Online Demo">
+        <img src="https://static.awes.io/promo/awes-io-demo-button.png" alt="Online Demo" width="220px" />
+    </a>
+</p>
+
 
 ## 
 
 <p align="center">
-    <img src="https://static.awes.io/promo/illustration_1440x1030_transparent_black.png" alt="Awes.io">
+    <a href="https://demo.awes.io/?utm_source=github&utm_medium=image-banner">
+        <img src="https://static.awes.io/promo/illustration_1440x1030_transparent_black.png" alt="Awes.io">
+    </a>
 </p>
 
-## What is Awes.io?
+## Introduction
 
-**Awes.io** is a platform that provides an awesome UI interface and list of packages to build very fast&stable responsible web applications. Based on [Laravel](https://laravel.com/) & [Vue.js](https://vuejs.org) dedicated packages.
+**Awes.io** is a platform that provides an awesome UI interface and list of packages to build  custom interactive web applications. 
+
+## Quick Start
+
+### 1. Try It Out
+
+We have developed the <a href="https://demo.awes.io/?utm_source=github&utm_medium=awes-io-try-link" title="Online Demo">Demo</a> for approximately 1 day. It's really a fast presentation what could be created based on the platform.
+
+> Go to <a href="https://demo.awes.io/?utm_source=github&utm_medium=awes-io-try-link" title="Online Demo">Live Demo</a>
+
+### 2. Install Demo to your  machine
+When you are satisfied with the demo online version and want to start coding, we have prepared for you a `docker-compose` build for quick installation. Everything is ready for your experiments. 🧪
+
+> Go to <a href="https://github.com/awes-io/demo#-quick-start-via-docker">repository with demo</a>. 
+
+### 3. Build your "Hello World" application
+If you have played enough in the demo on your local machine, you can install an empty build and create your first `hello world` app.
+
+> Go to <a href="#installation">installation guide</a>
 
 ## Available Packages
-|	package	|	version	|	on github?	|	type	|	downloads	|
-|	------	|	------	|	------	|	------	|	------	|
-|	awes-io/auth	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/auth/version.svg" alt="Last version" ></a>	|	soon	|	<img src="https://static.pkgkit.com/badges/laravel.svg" alt="Laravel" />	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/auth/downloads.svg" alt="Downloads" ></a>	|
-|	awes-io/auto-captcha	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/auto-captcha/version.svg" alt="Last version" ></a>	|	in plans	|	<img src="https://static.pkgkit.com/badges/laravel.svg" alt="Laravel" />	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/auto-captcha/downloads.svg" alt="Downloads" ></a>	|
-|	awes-io/awes-spa	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/awes-spa/version.svg" alt="Last version" ></a>	|	in plans	|	<img src="https://static.pkgkit.com/badges/vuejs.svg" alt="vue" />	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/awes-spa/downloads.svg" alt="Downloads" ></a>	|
-|	awes-io/base-js	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/base-js/version.svg" alt="Last version" ></a>	|	soon	|	<img src="https://static.pkgkit.com/badges/vuejs.svg" alt="vue" />	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/base-js/downloads.svg" alt="Downloads" ></a>	|
-|	awes-io/billing	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/billing/version.svg" alt="Last version" ></a>	|	in plans	|	<img src="https://static.pkgkit.com/badges/laravel.svg" alt="Laravel" />	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/billing/downloads.svg" alt="Downloads" ></a>	|
-|	awes-io/billing-paypal	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/billing-paypal/version.svg" alt="Last version" ></a>	|	in plans	|	<img src="https://static.pkgkit.com/badges/laravel.svg" alt="Laravel" />	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/billing-paypal/downloads.svg" alt="Downloads" ></a>	|
-|	awes-io/billing-stripe	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/billing-stripe/version.svg" alt="Last version" ></a>	|	in plans	|	<img src="https://static.pkgkit.com/badges/laravel.svg" alt="Laravel" />	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/billing-stripe/downloads.svg" alt="Downloads" ></a>	|
-|	awes-io/chart-builder	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/chart-builder/version.svg" alt="Last version" ></a>	|	soon	|	<img src="https://static.pkgkit.com/badges/vuejs.svg" alt="vue" />	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/chart-builder/downloads.svg" alt="Downloads" ></a>	|
-|	awes-io/context-menu	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/context-menu/version.svg" alt="Last version" ></a>	|	soon	|	<img src="https://static.pkgkit.com/badges/vuejs.svg" alt="vue" />	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/context-menu/downloads.svg" alt="Downloads" ></a>	|
-|	awes-io/crop-image	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/crop-image/version.svg" alt="Last version" ></a>	|	in plans	|	<img src="https://static.pkgkit.com/badges/laravel.svg" alt="Laravel" />	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/crop-image/downloads.svg" alt="Downloads" ></a>	|
-|	awes-io/docs	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/docs/version.svg" alt="Last version" ></a>	|	in plans	|	<img src="https://static.pkgkit.com/badges/laravel.svg" alt="Laravel" />	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/docs/downloads.svg" alt="Downloads" ></a>	|
-|	awes-io/filter-wrapper	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/filter-wrapper/version.svg" alt="Last version" ></a>	|	soon	|	<img src="https://static.pkgkit.com/badges/vuejs.svg" alt="vue" />	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/filter-wrapper/downloads.svg" alt="Downloads" ></a>	|
-|	<a href="https://github.com/awes-io/form-builder">awes-io/form-builder</a>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/form-builder/version.svg" alt="Last version" ></a>	|	published	|	<img src="https://static.pkgkit.com/badges/vuejs.svg" alt="vue" />	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/form-builder/downloads.svg" alt="Downloads" ></a>	|
-|	awes-io/geolocation	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/geolocation/version.svg" alt="Last version" ></a>	|	not ready	|	<img src="https://static.pkgkit.com/badges/laravel.svg" alt="Laravel" />	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/geolocation/downloads.svg" alt="Downloads" ></a>	|
-|	awes-io/google-cloud-images	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/google-cloud-images/version.svg" alt="Last version" ></a>	|	in plans	|	<img src="https://static.pkgkit.com/badges/laravel.svg" alt="Laravel" />	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/google-cloud-images/downloads.svg" alt="Downloads" ></a>	|
-|	<a href="https://github.com/awes-io/awes-io/indigo-layout">awes-io/indigo-layout</a>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/indigo-layout/version.svg" alt="Last version" ></a>	|	published	|	<img src="https://static.pkgkit.com/badges/vuejs.svg" alt="vue" />	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/indigo-layout/downloads.svg" alt="Downloads" ></a>	|
-|	awes-io/localization-helper	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/localization-helper/version.svg" alt="Last version" ></a>	|	soon	|	<img src="https://static.pkgkit.com/badges/laravel.svg" alt="Laravel" />	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/localization-helper/downloads.svg" alt="Downloads" ></a>	|
-|	awes-io/mail	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/mail/version.svg" alt="Last version" ></a>	|	not ready	|	<img src="https://static.pkgkit.com/badges/laravel.svg" alt="Laravel" />	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/mail/downloads.svg" alt="Downloads" ></a>	|
-|	awes-io/modal-window	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/modal-window/version.svg" alt="Last version" ></a>	|	soon	|	<img src="https://static.pkgkit.com/badges/vuejs.svg" alt="vue" />	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/modal-window/downloads.svg" alt="Downloads" ></a>	|
-|	awes-io/navigation	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/navigation/version.svg" alt="Last version" ></a>	|	soon	|	<img src="https://static.pkgkit.com/badges/laravel.svg" alt="Laravel" />	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/navigation/downloads.svg" alt="Downloads" ></a>	|
-|	awes-io/news	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/news/version.svg" alt="Last version" ></a>	|	soon	|	<img src="https://static.pkgkit.com/badges/laravel.svg" alt="Laravel" />	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/news/downloads.svg" alt="Downloads" ></a>	|
-|	awes-io/packaginator	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/packaginator/version.svg" alt="Last version" ></a>	|	not ready	|	<img src="https://static.pkgkit.com/badges/laravel.svg" alt="Laravel" />	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/packaginator/downloads.svg" alt="Downloads" ></a>	|
-|	awes-io/page-map	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/page-map/version.svg" alt="Last version" ></a>	|	soon	|	<img src="https://static.pkgkit.com/badges/vuejs.svg" alt="vue" />	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/page-map/downloads.svg" alt="Downloads" ></a>	|
-|	awes-io/permission	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/permission/version.svg" alt="Last version" ></a>	|	in plans	|	<img src="https://static.pkgkit.com/badges/laravel.svg" alt="Laravel" />	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/permission/downloads.svg" alt="Downloads" ></a>	|
-|	awes-io/reporter	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/reporter/version.svg" alt="Last version" ></a>	|	soon	|	<img src="https://static.pkgkit.com/badges/laravel.svg" alt="Laravel" />	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/reporter/downloads.svg" alt="Downloads" ></a>	|
-|	awes-io/repository	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/repository/version.svg" alt="Last version" ></a>	|	soon	|	<img src="https://static.pkgkit.com/badges/laravel.svg" alt="Laravel" />	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/repository/downloads.svg" alt="Downloads" ></a>	|
-|	awes-io/sticky-params	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/sticky-params/version.svg" alt="Last version" ></a>	|	in plans	|	<img src="https://static.pkgkit.com/badges/vuejs.svg" alt="vue" />	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/sticky-params/downloads.svg" alt="Downloads" ></a>	|
-|	awes-io/system-notify	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/system-notify/version.svg" alt="Last version" ></a>	|	in plans	|	<img src="https://static.pkgkit.com/badges/vuejs.svg" alt="vue" />	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/system-notify/downloads.svg" alt="Downloads" ></a>	|
-|	awes-io/tab-builder	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/tab-builder/version.svg" alt="Last version" ></a>	|	soon	|	<img src="https://static.pkgkit.com/badges/vuejs.svg" alt="vue" />	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/tab-builder/downloads.svg" alt="Downloads" ></a>	|
-|	<a href="https://github.com/awes-io/table-builder">awes-io/table-builder</a>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/table-builder/version.svg" alt="Last version" ></a>	|	published	|	<img src="https://static.pkgkit.com/badges/vuejs.svg" alt="vue" />	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/table-builder/downloads.svg" alt="Downloads" ></a>	|
-|	awes-io/tags	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/tags/version.svg" alt="Last version" ></a>	|	soon	|	<img src="https://static.pkgkit.com/badges/laravel.svg" alt="Laravel" />	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/tags/downloads.svg" alt="Downloads" ></a>	|
-|	awes-io/theme-switcher	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/theme-switcher/version.svg" alt="Last version" ></a>	|	soon	|	<img src="https://static.pkgkit.com/badges/vuejs.svg" alt="vue" />	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/theme-switcher/downloads.svg" alt="Downloads" ></a>	|
-|	awes-io/virtual-tour	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/virtual-tour/version.svg" alt="Last version" ></a>	|	soon	|	<img src="https://static.pkgkit.com/badges/vuejs.svg" alt="vue" />	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/virtual-tour/downloads.svg" alt="Downloads" ></a>	|
+All packages from the table are ready to install within Composer. Unfortunately, we have a limit of resources and have not published all list of packages to GitHub yet. Most parts of it located in our private repositories. We are working hard to open them as quickly as possible.
 
+For installation the packages you have to create a project on [Package Kit](https://www.pkgkit.com/awes-io/create) (it's free) and add the packages to your project. Then it will be ready by the Composer.
 
-## Example
-* [Online Demo](https://demo.awes.io/?utm_source=github&utm_medium=example)
-* [Repository with demo](https://github.com/awes-io/demo) for local installation `available docker`
+|	Package&nbsp;&nbsp;&nbsp;	|	&nbsp;&nbsp;&nbsp;&nbsp;Version&nbsp;&nbsp;&nbsp;&nbsp;	|	&nbsp;&nbsp;&nbsp;Downloads&nbsp;&nbsp;&nbsp; 	|	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Framework	|
+|	:------	|	:---------:	|	:---------:	|	---------:	|
+|	**Auth** <sup>*`[not on github yet]`*</sup> <br><sub>The basic and two-factor authentications, as well as the possibility to log in by using a social network account.</sub>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/auth/version.svg" alt="Last version" ></a>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/auth/downloads.svg" alt="Downloads" ></a>	|	<img src="https://static.pkgkit.com/badges/laravel.svg" alt="Laravel" />	|
+|	**Auto Captcha** <sup>*`[not on github yet]`*</sup> <br><sub>Shows Google reCAPTCHA automatically, depending on API request frequency, to prevents DoS and Brute Force attacks</sub>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/auto-captcha/version.svg" alt="Last version" ></a>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/auto-captcha/downloads.svg" alt="Downloads" ></a>	|	<img src="https://static.pkgkit.com/badges/laravel.svg" alt="Laravel" />	|
+|	**Awes SPA** <sup>*`[not on github yet]`*</sup> <br><sub>Transformation of Awes.io to Single-page application.</sub>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/awes-spa/version.svg" alt="Last version" ></a>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/awes-spa/downloads.svg" alt="Downloads" ></a>	|	<img src="https://static.pkgkit.com/badges/vuejs.svg" alt="vue" />	|
+|	**Base js** <sup>*`[not on github yet]`*</sup> <br><sub>A minimalistic bundle, that includes shared JS methods, common event bus, and also provides functionality for other component modules registration</sub>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/base-js/version.svg" alt="Last version" ></a>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/base-js/downloads.svg" alt="Downloads" ></a>	|	<img src="https://static.pkgkit.com/badges/vuejs.svg" alt="vue" />	|
+|	**Billing** <sup>*`[not on github yet]`*</sup> <br><sub>Simple billing system to use it on the platform.</sub>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/billing/version.svg" alt="Last version" ></a>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/billing/downloads.svg" alt="Downloads" ></a>	|	<img src="https://static.pkgkit.com/badges/laravel.svg" alt="Laravel" />	|
+|	**Billing Paypal** <sup>*`[not on github yet]`*</sup> <br><sub>Billing integration with PayPal.</sub>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/billing-paypal/version.svg" alt="Last version" ></a>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/billing-paypal/downloads.svg" alt="Downloads" ></a>	|	<img src="https://static.pkgkit.com/badges/laravel.svg" alt="Laravel" />	|
+|	**Billing Stripe** <sup>*`[not on github yet]`*</sup> <br><sub>Billing integration with Stripe.</sub>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/billing-stripe/version.svg" alt="Last version" ></a>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/billing-stripe/downloads.svg" alt="Downloads" ></a>	|	<img src="https://static.pkgkit.com/badges/laravel.svg" alt="Laravel" />	|
+|	**Chart Builder** <sup>*`[not on github yet]`*</sup> <br><sub>Vue.js module for building Charts based on chart.js</sub>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/chart-builder/version.svg" alt="Last version" ></a>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/chart-builder/downloads.svg" alt="Downloads" ></a>	|	<img src="https://static.pkgkit.com/badges/vuejs.svg" alt="vue" />	|
+|	**Context Menu** <sup>*`[not on github yet]`*</sup> <br><sub>A dropdown menu component with extended functionality, like pushing GET-params in browser query string and sending AJAX requests</sub>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/context-menu/version.svg" alt="Last version" ></a>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/context-menu/downloads.svg" alt="Downloads" ></a>	|	<img src="https://static.pkgkit.com/badges/vuejs.svg" alt="vue" />	|
+|	**Crop Image** <sup>*`[not on github yet]`*</sup> <br><sub>Vue.js module for cropping and resizing images on the client.</sub>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/crop-image/version.svg" alt="Last version" ></a>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/crop-image/downloads.svg" alt="Downloads" ></a>	|	<img src="https://static.pkgkit.com/badges/laravel.svg" alt="Laravel" />	|
+|	**Docs** <sup>*`[not on github yet]`*</sup> <br><sub>This package provides an easy way to create beautiful documentation for your product or application inside your Laravel app.</sub>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/docs/version.svg" alt="Last version" ></a>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/docs/downloads.svg" alt="Downloads" ></a>	|	<img src="https://static.pkgkit.com/badges/laravel.svg" alt="Laravel" />	|
+|	**Filter Wrapper** <sup>*`[not on github yet]`*</sup> <br><sub>The component allows `form-builder` to send data to the address bar of the browser.</sub>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/filter-wrapper/version.svg" alt="Last version" ></a>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/filter-wrapper/downloads.svg" alt="Downloads" ></a>	|	<img src="https://static.pkgkit.com/badges/vuejs.svg" alt="vue" />	|
+|	**<a href="https://github.com/awes-io/form-builder">Form Builder</a>** <br><sub>A component that allows creating forms with two-way binding from data object with default HTML fields and custom, like multi-block or AJAX-select</sub>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/form-builder/version.svg" alt="Last version" ></a>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/form-builder/downloads.svg" alt="Downloads" ></a>	|	<img src="https://static.pkgkit.com/badges/vuejs.svg" alt="vue" />	|
+|	**GEO Location** <sup>*`[not on github yet]`*</sup> <br><sub>Checking location based on IP user.</sub>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/geolocation/version.svg" alt="Last version" ></a>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/geolocation/downloads.svg" alt="Downloads" ></a>	|	<img src="https://static.pkgkit.com/badges/laravel.svg" alt="Laravel" />	|
+|	**Google Cloud Images** <sup>*`[not on github yet]`*</sup> <br><sub>Image server for Google Cloud App for cropping and delivery images.</sub>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/google-cloud-images/version.svg" alt="Last version" ></a>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/google-cloud-images/downloads.svg" alt="Downloads" ></a>	|	<img src="https://static.pkgkit.com/badges/laravel.svg" alt="Laravel" />	|
+|	**<a href="https://github.com/awes-io/indigo-layout">Indigo Layout</a>** <br><sub>Basic styles and components set for building user interfaces.</sub>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/indigo-layout/version.svg" alt="Last version" ></a>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/indigo-layout/downloads.svg" alt="Downloads" ></a>	|	<img src="https://static.pkgkit.com/badges/vuejs.svg" alt="vue" />	|
+|	**Localization Helper** <sup>*`[not on github yet]`*</sup> <br><sub>Helper packages for simple translating of the interfaces.</sub>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/localization-helper/version.svg" alt="Last version" ></a>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/localization-helper/downloads.svg" alt="Downloads" ></a>	|	<img src="https://static.pkgkit.com/badges/laravel.svg" alt="Laravel" />	|
+|	**Mail** <sup>*`[not on github yet]`*</sup> <br><sub>Subscriptions, Blacklist, Logging - everything that you need for mail.</sub>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/mail/version.svg" alt="Last version" ></a>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/mail/downloads.svg" alt="Downloads" ></a>	|	<img src="https://static.pkgkit.com/badges/laravel.svg" alt="Laravel" />	|
+|	**Modal Window** <sup>*`[not on github yet]`*</sup> <br><sub>Modal window component, with HTML5-history navigation</sub>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/modal-window/version.svg" alt="Last version" ></a>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/modal-window/downloads.svg" alt="Downloads" ></a>	|	<img src="https://static.pkgkit.com/badges/vuejs.svg" alt="vue" />	|
+|	**Navigation** <sup>*`[not on github yet]`*</sup> <br><sub>Build any menu on the project.</sub>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/navigation/version.svg" alt="Last version" ></a>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/navigation/downloads.svg" alt="Downloads" ></a>	|	<img src="https://static.pkgkit.com/badges/laravel.svg" alt="Laravel" />	|
+|	**News** <sup>*`[not on github yet]`*</sup> <br><sub>The package which enables to create news announcements and to combine them in categories, and etc.</sub>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/news/version.svg" alt="Last version" ></a>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/news/downloads.svg" alt="Downloads" ></a>	|	<img src="https://static.pkgkit.com/badges/laravel.svg" alt="Laravel" />	|
+|	**Packaginator** <sup>*`[not on github yet]`*</sup> <br><sub>Helper Laravel package for building backend structure for the app.</sub>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/packaginator/version.svg" alt="Last version" ></a>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/packaginator/downloads.svg" alt="Downloads" ></a>	|	<img src="https://static.pkgkit.com/badges/laravel.svg" alt="Laravel" />	|
+|	**Page Map** <sup>*`[not on github yet]`*</sup> <br><sub>Automatically creates anchor-links navigation from provided content.</sub>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/page-map/version.svg" alt="Last version" ></a>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/page-map/downloads.svg" alt="Downloads" ></a>	|	<img src="https://static.pkgkit.com/badges/vuejs.svg" alt="vue" />	|
+|	**Permission** <sup>*`[not on github yet]`*</sup> <br><sub>The package allows to add permissions to roles and roles to users.</sub>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/permission/version.svg" alt="Last version" ></a>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/permission/downloads.svg" alt="Downloads" ></a>	|	<img src="https://static.pkgkit.com/badges/laravel.svg" alt="Laravel" />	|
+|	**Reporter** <sup>*`[not on github yet]`*</sup> <br><sub>Library with pre-configured reports to build charts on the pages.</sub>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/reporter/version.svg" alt="Last version" ></a>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/reporter/downloads.svg" alt="Downloads" ></a>	|	<img src="https://static.pkgkit.com/badges/laravel.svg" alt="Laravel" />	|
+|	**Repository** <sup>*`[not on github yet]`*</sup> <br><sub>The package which implements the repository pattern with the possibility to select data by means of criteria and filters  - both basic, initial filters  and new one's design by the developer.</sub>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/repository/version.svg" alt="Last version" ></a>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/repository/downloads.svg" alt="Downloads" ></a>	|	<img src="https://static.pkgkit.com/badges/laravel.svg" alt="Laravel" />	|
+|	**Sticky Params** <sup>*`[not on github yet]`*</sup> <br><sub>Vue.js module to save filter results and reinstall it after reloading the page.</sub>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/sticky-params/version.svg" alt="Last version" ></a>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/sticky-params/downloads.svg" alt="Downloads" ></a>	|	<img src="https://static.pkgkit.com/badges/vuejs.svg" alt="vue" />	|
+|	**System Notify** <sup>*`[not on github yet]`*</sup> <br><sub>4 types of notifications for the Awes.io.</sub>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/system-notify/version.svg" alt="Last version" ></a>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/system-notify/downloads.svg" alt="Downloads" ></a>	|	<img src="https://static.pkgkit.com/badges/vuejs.svg" alt="vue" />	|
+|	**Tab Builder** <sup>*`[not on github yet]`*</sup> <br><sub>A component for tabs with responsive navigation</sub>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/tab-builder/version.svg" alt="Last version" ></a>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/tab-builder/downloads.svg" alt="Downloads" ></a>	|	<img src="https://static.pkgkit.com/badges/vuejs.svg" alt="vue" />	|
+|	**<a href="https://github.com/awes-io/table-builder">Table Builder</a>** <br><sub>A component that allows creating responsive HTML tables or lists from data object</sub>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/table-builder/version.svg" alt="Last version" ></a>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/table-builder/downloads.svg" alt="Downloads" ></a>	|	<img src="https://static.pkgkit.com/badges/vuejs.svg" alt="vue" />	|
+|	**Tags** <sup>*`[not on github yet]`*</sup> <br><sub>Simple packages for building tag system for any models.</sub>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/tags/version.svg" alt="Last version" ></a>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/tags/downloads.svg" alt="Downloads" ></a>	|	<img src="https://static.pkgkit.com/badges/laravel.svg" alt="Laravel" />	|
+|	**Theme Switcher** <sup>*`[not on github yet]`*</sup> <br><sub>Helper component for setting light or dark theme on a website which stores it is value in Cookie</sub>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/theme-switcher/version.svg" alt="Last version" ></a>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/theme-switcher/downloads.svg" alt="Downloads" ></a>	|	<img src="https://static.pkgkit.com/badges/vuejs.svg" alt="vue" />	|
+|	**Virtual Tour** <sup>*`[not on github yet]`*</sup> <br><sub>It provides a quick and easy way to guide your users through your application.</sub>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/virtual-tour/version.svg" alt="Last version" ></a>	|	<a href="https://www.pkgkit.com/" target="_blank"><img src="https://www.pkgkit.com/4GBWO/awes-io/virtual-tour/downloads.svg" alt="Downloads" ></a>	|	<img src="https://static.pkgkit.com/badges/vuejs.svg" alt="vue" />	|
 
 ## Installation
 The build inside of the repository does not exist any backend logic. The build is needed if you would like to start a new project.
-> ⚠️ if you see this system for the first time, we strongly recommend installing our [demo](https://github.com/awes-io/demo) first!
+> 👽️ if you see this system for the first time, we strongly recommend installing our [demo](https://github.com/awes-io/demo) first!
 
 ### Via Awes.io Installer
 
@@ -128,6 +160,13 @@ If for some reason it's not an option, please follow the instruction:
 
 Full documentation please follow to official website of [Awes.io](https://www.awes.io/documentation).
 
+## Support Us
+
+<p align="center">
+    <a href="https://www.patreon.com/awesdotio" target="_blank">
+        <img src="https://c5.patreon.com/external/logo/become_a_patron_button.png" alt="Become a Patreon">
+    </a>
+</p>
 
 ## License
 
