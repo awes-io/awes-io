@@ -28,7 +28,7 @@
     <a href="https://www.pkgkit.com/?utm_source=github&amp;utm_medium=shields">
         <img src="https://www.pkgkit.com/badges/hosted.svg" alt="Hosted by Package Kit" />
     </a>
-    <a href="https://www.patreon.com/awesdotio">
+    <a href="https://www.patreon.com/join/awesdotio">
         <img src="https://static.pkgkit.com/badges/patreon.svg" alt="Patreon" />
     </a>
 </p>
