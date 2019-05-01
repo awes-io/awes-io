@@ -1,3 +1,12 @@
+---
+name: Bug Report
+about: Tell us what happens instead of the expected behavior
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 Your issue may already be reported!
 Please search on the [issue tracker](../) before creating one.
 
