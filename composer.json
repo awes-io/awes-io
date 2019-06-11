@@ -12,6 +12,7 @@
     "license": "MIT",
     "require": {
         "php": "^7.2",
+        "awes-io/generator": "^0.0.1",
         "awes-io/base-js": "^1.6",
         "awes-io/auth": "^1.1",
         "awes-io/form-builder": "^1.3",
