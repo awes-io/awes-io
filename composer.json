@@ -19,6 +19,7 @@
         "awes-io/filter-wrapper": "^1.0",
         "awes-io/form-builder": "^1.3",
         "awes-io/indigo-layout": "^1.7",
+        "awes-io/modal-window": "^1.1",
         "awes-io/localization-helper": "^1.0",
         "awes-io/repository": "^1.0",
         "awes-io/table-builder": "^1.0",
