@@ -23,6 +23,7 @@
         "awes-io/localization-helper": "^1.0",
         "awes-io/repository": "^1.0",
         "awes-io/table-builder": "^1.0",
+        "begimov/thanks": "^1.1",
         "fideloper/proxy": "^4.0",
         "laravel/framework": "5.8.*",
         "laravel/tinker": "^1.0"
@@ -56,6 +57,16 @@
     "extra": {
         "laravel": {
             "dont-discover": []
+        },
+        "awes-io-thanks": {
+            "awes-io/awes-io": "https://github.com/awes-io/awes-io.git",
+            "awes-io/form-builder": "https://github.com/awes-io/form-builder.git",
+            "awes-io/indigo-layout": "https://github.com/awes-io/indigo-layout.git",
+            "awes-io/table-builder": "https://github.com/awes-io/table-builder.git",
+            "awes-io/navigator": "https://github.com/awes-io/navigator",
+            "awes-io/repository": "https://github.com/awes-io/repository.git",
+            "awes-io/auth": "https://github.com/awes-io/auth.git",
+            "awes-io/localization-helper": "https://github.com/awes-io/localization-helper"
         }
     },
     "autoload": {
